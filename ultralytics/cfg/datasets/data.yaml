@@ -1,0 +1,9 @@
+train: [E:/BaiduNetdiskDownload/single_imgs/images/train, E:/BaiduNetdiskDownload/dual_imgs/infrared/images/train]
+#val: , E:/BaiduNetdiskDownload/single_imgs/images/train
+val: E:/BaiduNetdiskDownload/single_imgs/images/test
+
+# number of classes
+nc: 8
+
+# class names
+names: ['dmjrb','ns','dyrb','ejgdl','zw','yyzd','ygfs','ycdw']
